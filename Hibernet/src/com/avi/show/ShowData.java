@@ -6,6 +6,7 @@ public class ShowData {
 	public void newMethosAdded() {
 		
 		System.out.println("New method added successfullt");
+		System.out.println("New method ");
 	}
 	
 	public void showDataMethod() {
