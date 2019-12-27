@@ -7,5 +7,10 @@ public class OnlyGetData {
 		
 		System.out.println("in get data method");
 	}
+	
+	
+	public void showData() {
+		System.out.println("in this mehod");
+	}
 
 }
